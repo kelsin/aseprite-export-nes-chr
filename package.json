@@ -1,0 +1,14 @@
+{
+    "name": "export-nes-chr",
+    "displayName": "Export NES CHR",
+    "description": "Exports a sprite as a NES CHR formatted include file.",
+    "version": "0.0.1",
+    "author": "Christopher Giroir <kelsin@valefor.com>",
+    "license": "MIT",
+    "categories": ["Scripts"],
+    "contributes": {
+        "scripts": [
+            { "path": "./export-nes-chr.lua" }
+        ]
+    }
+}
